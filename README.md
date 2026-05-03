@@ -1,8 +1,6 @@
 # CHIPS Act — Semiconductor Industry Analysis
 
-**Course:** Financial Data Analytics  
-**Institution:** Clark University School of Business  
-**Team:** Kubra Banu, Joash Kawal
+**Author:** Kubra Banu
 
 ---
 
@@ -10,7 +8,7 @@
 
 This project analyzes the economic and market impact of the **CHIPS and Science Act** (enacted August 9, 2022) on two U.S. industries:
 
-- **SIC 3674** — Semiconductors and Related Devices (Joash) — Focus company: **Intel Corp**
+- **SIC 3674** — Semiconductors and Related Devices — Focus company: **Intel Corp**
 - **SIC 3679** — Electronic Components, Not Elsewhere Classified (Kubra) — Focus company: **Advanced Energy Industries, Inc**
 
 The act authorized ~$280 billion in funding for domestic semiconductor research and manufacturing to strengthen U.S. supply chain resilience.
@@ -20,8 +18,6 @@ The act authorized ~$280 billion in funding for domestic semiconductor research 
 ## Research Hypotheses
 
 **Kubra:** The production efficiency of companies in the electronics components industry (SIC 3679) has been positively affected by the CHIPS Act, in turn leading to a positive stock market reaction.
-
-**Joash:** The CHIPS and Science Act will positively impact the Semiconductor and Related Devices industry (SIC 3674) in the U.S., improving financial return on revenues.
 
 ---
 
